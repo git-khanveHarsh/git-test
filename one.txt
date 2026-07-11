@@ -1,0 +1,5 @@
+now learning git hub 
+this is going to be my first push on git hub
+this is first file 
+add another file to the folder and commit it
+thistext is just for testing
